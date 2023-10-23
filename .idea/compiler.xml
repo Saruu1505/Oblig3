@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cicd-oblig3" />
+        <module name="oblig3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oblig3" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>

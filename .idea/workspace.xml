@@ -129,15 +129,4 @@
     <MESSAGE value="changed versionnumber in yml-file" />
     <option name="LAST_COMMIT_MESSAGE" value="changed versionnumber in yml-file" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeapYearTest.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
 </project>

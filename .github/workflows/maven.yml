@@ -21,6 +21,6 @@ jobs:
     - name: Build and test with Maven
       run: mvn clean install
     - name: Run test
-      rundt
+      run: mvn -B test --file pom.xml
 
 

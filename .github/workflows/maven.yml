@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: run-test-oblig3
+name: Java CI/CD with Maven
 
 on:
   push:

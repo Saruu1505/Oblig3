@@ -8,7 +8,7 @@ public class LeapYearTest {
     @DisplayName("Testing if year is divisible by 4 and not by 100")
     @Test
     public void checkingIfYearIsDivisibleBy4AndNotDivisibleBy100(){
-        assertEquals(false, LeapYear.isThisYearALeapYear(2000));
+        assertEquals(true, LeapYear.isThisYearALeapYear(2000));
         assertEquals(true, LeapYear.isThisYearALeapYear(2024));
         assertEquals(true, LeapYear.isThisYearALeapYear(1648));
         assertEquals(true, LeapYear.isThisYearALeapYear(2016));
